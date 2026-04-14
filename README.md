@@ -51,25 +51,6 @@ Closed-form solution:
 
 ---
 
-## Project Structure
-
-```
-logistic-regression-from-scratch/
-│
-├── README.md
-│
-├── src/
-│   └── logistic_regression.py
-│
-├── data/
-│   └── classifier_data.pkl
-│
-└── results/
-    └── decision_boundary.png   (optional)
-```
-
----
-
 ## Technologies Used
 
 - Python
